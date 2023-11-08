@@ -6,7 +6,7 @@ import java.lang.*;
 public class random {
 
 	static int score=0;
-    static 	int option;
+        static int option;
 	public static void game() 
 	{
 		Scanner sc=new Scanner(System.in);
